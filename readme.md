@@ -6,8 +6,8 @@ This project is part of the **SIIMP Series** — aiming to give a practical, rea
 ---
 
 ## ✅ Features Implemented
-- Docker Containerization [Java Spring Boot Service, PostgreSQL]
-- Environment Variable Setup
+- Docker Containerization [Java Spring Boot Service, PostgreSQL, Prometheus, Grafana]
+- Deploy and Monitor Ready Environment Variable Setup
 
 ##  .env Variables ex:
 POSTGRES_DB=mydatabase
